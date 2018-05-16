@@ -146,7 +146,7 @@ aside#sidebar{
 	margin-top:10px;
 }
 
-aside#sidebar .quote input, aside#sidebar .quote textarea{
+aside#sidebar input, aside#sidebar textarea{
 	width:90%;
 	padding:5px;
 	display:block;
@@ -177,7 +177,7 @@ footer{
 
 
 /* Media Queries */
-@media(min-width: 600px){
+@media(max-width: 600px){
 	header #branding,
 	header nav,
 	header nav li,
