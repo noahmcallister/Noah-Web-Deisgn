@@ -177,7 +177,7 @@ footer{
 
 
 /* Media Queries */
-@media(min-width: 700px){
+@media(min-width: 600px){
 	header #branding,
 	header nav,
 	header nav li,
