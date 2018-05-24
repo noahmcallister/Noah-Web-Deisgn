@@ -4,7 +4,7 @@ body{
 	line-height:1.5;
 	padding:0;
 	margin:0;
-	background-color:#f9f9f9;
+	background-color:#ffffff;
 }
 
 /* Global */
@@ -73,7 +73,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-	color:#e8491d;
+	color:#4484ce;
 	font-weight:bold;
 }
 
